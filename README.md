@@ -25,10 +25,6 @@ Feel free to explore the workout files to review the exercises and assignments c
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or questions regarding this project or the machine learning with artificial intelligence course, feel free to contact me at [alexcheliyan1@gmail.com](mailto:alexcheliyan1@gmail.com).
