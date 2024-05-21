@@ -28,3 +28,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Contact
 
 For any inquiries or questions regarding this project or the machine learning with artificial intelligence course, feel free to contact me at [alexcheliyan1@gmail.com](mailto:alexcheliyan1@gmail.com).
+
+## Collaboration
+
+I welcome collaboration and contributions! You can find me on GitHub at [@yAlex-Elancheliyan](https://github.com/Alex-Elancheliyan).
