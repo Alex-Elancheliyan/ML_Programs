@@ -26,7 +26,7 @@ dt_classifier.fit(X_train, y_train)
 # Make predictions on the testing data
 y_pred = dt_classifier.predict(X_test)
 
-# Evaluate the model
+#Evaluation Of Models.
 accuracy = accuracy_score(y_test, y_pred)
 conf_matrix = confusion_matrix(y_test, y_pred)
 classification_rep = classification_report(y_test, y_pred)
