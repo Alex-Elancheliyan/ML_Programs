@@ -15,6 +15,8 @@ def read():
     X = np.array(df.drop(['Class'], axis=1))
     y = np.array(df['Class'])
     return X, y
+
+#Train The Model:
 def train(X, y):
     X_train, X_test, y_train, y_test = model_selection.train_test_split(X, y, test_size=0.2)
     clf.fit(X_train, y_train)
